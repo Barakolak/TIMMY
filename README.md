@@ -10,7 +10,9 @@ Analysis the tweets about bitcoin and give results about how it more likely to c
 *  Regular expression operations
 *  Matplotlib
 *  *TextBlob
-  
+
+### Data
+* Our Data cames from Kaggle -> https://www.kaggle.com/
   
 ### Language
 *  Python3
