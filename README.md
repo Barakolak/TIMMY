@@ -4,7 +4,7 @@ Trading Intelligence for Making Money.
 Analysis the tweets about bitcoin and give results about how it more likely to change.
 
 
-## Requirments
+## Required Libraries
 *  Numpy
 *  Pandas
 *  Regular expression operations
@@ -12,5 +12,5 @@ Analysis the tweets about bitcoin and give results about how it more likely to c
 *  *TextBlob
   
   
-### Languages
+### Language
   Python3
