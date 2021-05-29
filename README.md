@@ -5,11 +5,11 @@ Analysis the tweets about bitcoin and give results about how it more likely to c
 
 
 ## Requirments
-  1- Numpy
-  2- Pandas
-  3- Regular expression operations
-  4- Matplotlib
-  5- *TextBlob
+*  1- Numpy
+*  2- Pandas
+*  3- Regular expression operations
+*  4- Matplotlib
+*  5- *TextBlob
   
   
 ### Languages
