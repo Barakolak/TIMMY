@@ -12,7 +12,7 @@ Analysis the tweets about bitcoin and give results about how it more likely to c
 *  *TextBlob
 
 ### Data
-* Our Data cames from Kaggle -> https://www.kaggle.com/
+* Our Data comes from Kaggle -> https://www.kaggle.com/
   
 ### Language
 *  Python3
